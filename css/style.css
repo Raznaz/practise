@@ -9,3 +9,8 @@ h1 {
 .title {
   color: blue;
 }
+
+.acitve {
+  color: red;
+  text-decoration: underline;
+}
